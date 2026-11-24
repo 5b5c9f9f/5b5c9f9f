@@ -6,14 +6,14 @@
 
 ### Технологический стек
 
-![React]
-![TypeScript]
-![JavaScript]
-![HTML5]
-![CSS3]
-![Sass]
-![Vite]
-![Git]
+# React
+# TypeScript
+# JavaScript
+# HTML5
+# CSS3
+# Sass
+# Vite
+# Git
 
 ---
 
