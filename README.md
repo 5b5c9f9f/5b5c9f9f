@@ -31,4 +31,3 @@
 
 * **GitHub:** [@5b5c9f9f](https://github.com/5b5c9f9f)
 * **Telegram:** [@l5b5c9f9fl](https://t.me/l5b5c9f9fl)
-* **Email:** твой-email@example.com
