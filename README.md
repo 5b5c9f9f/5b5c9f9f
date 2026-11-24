@@ -6,14 +6,14 @@
 
 ### Технологический стек
 
-![React](https://shields.io)
-![TypeScript](https://shields.io)
-![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![Sass](https://shields.io)
-![Vite](https://shields.io)
-![Git](https://shields.io)
+![React]
+![TypeScript]
+![JavaScript]
+![HTML5]
+![CSS3]
+![Sass]
+![Vite]
+![Git]
 
 ---
 
